@@ -12,8 +12,12 @@ def check_num(num):
     else:
         return False
     
-print("This is ")
 
+
+name = "Folasade"
+print(f"Welcome, {name}")
+
+print("This is a code from feature-1")
 
 
 print("hello World")
