@@ -1,3 +1,5 @@
+print("hello World")
+print("This is my first git repository")
 def check_num(num):
 
     """
