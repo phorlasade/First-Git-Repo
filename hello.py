@@ -1,5 +1,4 @@
-print("hello World")
-print("This is my first git repository")
+
 def check_num(num):
 
     """
@@ -12,6 +11,12 @@ def check_num(num):
         return True
     else:
         return False
+    
+print("This is ")
 
+
+
+print("hello World")
+print("This is my first git repository")
 
 
